@@ -4,7 +4,7 @@ video:
 https://www.youtube.com/watch?v=P27ukvaoDGk
 ![](https://github.com/angusfang/mountain_car_tile/blob/master/result.gif)
 
-function approximate:
+## function approximate:
 
 ### tile coding 1d
 
